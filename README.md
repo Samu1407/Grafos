@@ -8,7 +8,7 @@ Analisar relações entre jogadores, clubes e países.
 Porque conexões são mais importantes que os dados isolados.
 
 ## 🗺️ Modelo
-(coloque a imagem que você fez)
+![Texto Alternativo](C:\Users\sccsi\OneDrive\Imagens\img_grafo.png)
 
 ## ⚙️ Como rodar
 1. Abrir Neo4j
